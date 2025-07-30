@@ -28,7 +28,7 @@ export default function HomePage() {
         >
           Capitalize
         </button>
-        {capitalized && <p className="mt-2">Result1: {capitalized}</p>}
+        {capitalized && <p className="mt-2">ResultHere: {capitalized}</p>}
       </div>
 
       <div className="mt-6">
